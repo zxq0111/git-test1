@@ -1,0 +1,15 @@
+package com.atguigu.git;
+
+/**
+ * @Author: zxq
+ * @Date: 2026/10/29
+ * @Time: 17:58
+ * @Description:
+ */
+public class GitTest {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello git!");
+    }
+}
